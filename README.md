@@ -1,2 +1,22 @@
-# Calendar
-A simple Java-based Calendar Tool that allows users to: View current month and year, Navigate between months, Check if a given year is a leap year
+# 📅 Calendar Tool (Java)
+
+A simple **Java-based Calendar Tool** to view months, navigate between months, and check leap years.
+
+## **Features**
+✅ View current month and year  
+✅ Navigate between months  
+✅ Check if a given year is a leap year  
+
+## **Technologies Used**
+- Java   
+
+## **How to Run?**
+1. Compile the Java file:  
+2. Run the program:  
+3. Follow on-screen options to use the calendar tool.
+
+## **Live Demo**
+[🔗 View Live Project](#) (https://hiruniramanayaka.github.io//)
+
+## **Demo Video**
+[Watch the Demo Video](https://youtu.be/ouXeChaPEVE)
