@@ -15,8 +15,5 @@ A simple **Java-based Calendar Tool** to view months, navigate between months, a
 2. Run the program:  
 3. Follow on-screen options to use the calendar tool.
 
-## **Live Demo**
-[🔗 View Live Project](#) (https://hiruniramanayaka.github.io/Calendar/)
-
 ## **Demo Video**
 [Watch the Demo Video](https://youtu.be/ouXeChaPEVE)
